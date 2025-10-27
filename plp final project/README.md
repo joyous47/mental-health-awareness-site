@@ -115,10 +115,14 @@ Push to your branch (git push origin feature/your-feature)
 Open a Pull Request
 📜 License
 This project is licensed under the MIT License — see the LICENSE file for details.
+
 👩🏽‍💻 Author
-Stephen Katana
-Computer Science Graduate | Web Developer | IT & AI Enthusiast
-📧 Email: [jbarongo011@gmail.com]
-🌐 GitHub:https://github.com/joyous47
-🔗 LinkedIn: https://linkedin.com/in/yourprofile
+1.  Stephen Katana-Computer Science 
+    Email;[stephenngonyokatana@gmail.com] 
+    🌐 GitHub:https://github.com/Katanajr
+
+2.  Joy Borongo
+    Email: [jbarongo011@gmail.com]
+    🌐 GitHub:https://github.com/joyous47
+
 “Your mind matters. Awareness is the first step toward healing
